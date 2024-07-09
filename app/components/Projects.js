@@ -2,7 +2,7 @@ import Link from "next/link";
 import ProjectsCards from "./ProjectsCards";
 const data = [{ name: "IPL DASHBOARD", techStack: "REACT CHART'JS CSS", liveUrl: "https://ipl-dashblify.app/", github: "https://github.com/aard", thumbnail: "https://res.cloudinary.com/dfegprdja/image/upload/v1692451890/Screenshot_2023-08-19_at_7.00.40_PM_meli80.png", title: "Visualize Insights Seamlessly" },
 { name: "KANBAN BOARD", techStack: "REACT REACT-BEAUTIFUL-DND TAILWIND MUI", liveUrl: "https://kanbanghjghgjclone-mel.app/", github: "https://github.com/ahuja2666/kanban-clone", thumbnail: "https://res.cloudinary.com/dfegprdja/image/upload/v1692454199/Screenshot_2023-08-19_at_7.39.43_PM_wwd38d.png", title: "MODERN TODO APP" },
-{ name: "LAUNDRY SERVICE", techStack: "REACT NODE EXPRESS MONGODB JWT BCRYPT", github: "https://gict", thumbnail: "https://res.cloudinary.com/dfegprdja/image/upload/v1692455222/Screenshot_2023-08-19_at_7.56.40_PM_hqibca.png", title: "FULLSTACK WEB APP" }
+{ name: "", techStack: "REACT NODE EXPRESS MONGODB JWT BCRYPT", github: "https://gict", thumbnail: "https://res.cloudinary.com/dfprdja/image/upload/v1692455222/Screenshot_2023-08-19_at_7.56.40_PM_hqibca.png", title: "FULLSTACK WEB APP" }
 ]
 
 export default function Projects(props) {
