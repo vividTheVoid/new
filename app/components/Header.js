@@ -117,7 +117,7 @@ export default function Header(props) {
                 /></Link>
               </div>
               <div>
-                <Link href={"/"}><h1 className='ml-3 font-bold'>Harshit Ahuja</h1></Link>
+                <Link href={"/"}><h1 className='ml-3 font-bold'>vivid</h1></Link>
               </div>
             </div>
             <div className=' md:hidden'>
