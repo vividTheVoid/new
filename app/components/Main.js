@@ -12,7 +12,7 @@ export default function Main() {
           <div className='flex flex-col gap-8'>
             <div>
               <h2 className=' text-3xl font-semibold'>
-                Harshit is a <span className='text-[#C778DD]'>Full Stack Web App Developer</span>
+                Vivid is a <span className='text-[#C778DD]'>Software Developer</span>
               </h2>
             </div>
             <div>
