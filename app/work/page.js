@@ -1,8 +1,8 @@
 import Projects from "../components/Projects";
 import ProjectsCards from "../components/ProjectsCards";
-const data = [{ name: "Photo Sharing App", techStack: "REACT AWS-S3 GOOGLE-AUTH", github: "https://github.com/ahuja2666/instaclone" },
-{ name: "To-Do App", techStack: "REACT HTML CSS", github: "https://github.com/ahuja2666/" },
-{ name: "Tic Tac Toe", techStack: "HTML CSS JAVASCRIPT", github: "https://github.com/ahuja2666/" }
+const data = [{ name: "Photo Sharing App", techStack: "REACT AWS-S3 GOOGLE-AUTH", github: "https://github.lone" },
+{ name: "To-Do App", techStack: "REACT HTML CSS", github: "https://github.com/66/" },
+{ name: "Tic Tac Toe", techStack: "HTML CSS JAVASCRIPT", github: "https://github.com/ah66/" }
 ]
 
 export default function Work() {
