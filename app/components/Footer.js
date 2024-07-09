@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 const contacts = [{ img: "/Discord.png", alt: "disord icon", href: "https://discordapp.com/users/9388446406", text: "!abhikr#7305" },
-{ img: "/Email.png", alt: "email icon", href: "mailto: abhikr62hotmail.@gamil.com", text: "abhikr62hotmail.@gamil.com" },
+{ img: "/Email.png", alt: "email icon", href: "mailto: abhikr62hotmail@gamil.com", text: "abhikr62hotmail@gamil.com" },
 { img: "/Linkedin.png", alt: "linkedin icon", href: "https://www.linkedin.com/in/abhikr62/", text: "@abhikr62" }
 ]
 
@@ -14,7 +14,7 @@ export default function Footer() {
             <div className="flex gap-2 flex-wrap">
               <Image height={16} width={16} alt="small logo" src={"/logo.png"} />
               <span className=" text-base text-white font-medium">vivid</span>
-              <Link target="_blank" href={"mailto: abhikr62hotmail@gmail.com"}><span className="text-[#ABB2BF] text-base font-normal">ahujaharshit26@gmail.com</span></Link>
+              <Link target="_blank" href={"mailto: abhikr62hotmail@gmail.com"}><span className="text-[#ABB2BF] text-base font-normal">abhikr62hotmail@gamil.com</span></Link>
             </div>
             <div className="text-white font-normal text-base">
               Full Stack Web App Developer
