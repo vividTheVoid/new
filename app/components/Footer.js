@@ -47,7 +47,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="my-7">
-          <p className="text-center text-[#ABB2BF] text-base font-normal">; Copyright 2024 / Made by vivid/Nevada/Krito/Invincible</p>
+          <p className="text-center text-[#ABB2BF] text-base font-normal"> Copyright 2024 / Made by vivid/Nevada/Krito/Invincible</p>
         </div>
       </div>
     </footer>
