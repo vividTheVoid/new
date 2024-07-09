@@ -1,7 +1,7 @@
 import Image from "next/image"
 import Link from "next/link"
 
-const images = [{ path: "/github.png", url: "https://github.com/ahuja2666/" }, { path: "/Linkedin.png", url: "https://www.linkedin.com/in/ahujaharshit26/" }, { path: "/Discord.png", url: "https://discordapp.com/users/938844640004673536" }]
+const images = [{ path: "/github.png", url: "https://github.com/abhikr62/" }, { path: "/Linkedin.png", url: "https://www.linkedin.com/in/abhikr62/" }, { path: "/Discord.png", url: "https://discordapp.com/users/938844673536" }]
 
 
 export default function SocialProfiles() {
