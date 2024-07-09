@@ -1,9 +1,9 @@
 import { Grid } from "@mui/material";
 import Image from "next/image";
 import Link from "next/link";
-const contacts = [{ img: "/Discord.png", alt: "disord icon", href: "https://discordapp.com/users/938844640004673536", text: "!harshit#7305" },
-{ img: "/Email.png", alt: "email icon", href: "mailto: ahujaharshit26@gamil.com", text: "ahujaharshit26@gamil.com" },
-{ img: "/Linkedin.png", alt: "linkedin icon", href: "https://www.linkedin.com/in/ahujaharshit26/", text: "@ahujaharshit26" }
+const contacts = [{ img: "/Discord.png", alt: "disord icon", href: "https://discordapp.com/users/93884673536", text: "!Abhikr62#7305" },
+{ img: "/Email.png", alt: "email icon", href: "mailto: abhikr62@gamil.com", text: "abhikr62@gamil.com" },
+{ img: "/Linkedin.png", alt: "linkedin icon", href: "https://www.linkedin.com/in/abhikr62/", text: "@abhikr62" }
 ]
 
 export default function Contact(props) {
