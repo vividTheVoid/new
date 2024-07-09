@@ -23,7 +23,7 @@ const LinkedInRecommendations = () => {
           />
         </div>
         <div className="self-center">
-          <Link className="text-white hover:text-[#ABB2BF]" target="_blank" href={'https://www.linkedin.com/in/ahujaharshit26/details/recommendations'}>
+          <Link className="text-white hover:text-[#ABB2BF]" target="_blank" href={'https://www.linkedin.com/in/abhikr62/details/recommendations'}>
             <AnimatedButton btnText={`See More on LinkedIn ->`} />
           </Link>
         </div>
@@ -39,17 +39,17 @@ const testimonials = [
     quote:
       "Harshit has always gone that extra mile to bring all his work to the finish line. He brought skill and innovation to his work. He is a fast learner and dedicated person.",
     name: "Sonal Padole",
-    title: "Senior Project Manager at BluePi",
+    title: "Senior Project Manager at Orangatan",
   },
   {
     quote:
       `Harshit is not only technically proficient but also an excellent team player. He consistently collaborated well with our back-end developers, designers, and other team members, ensuring smooth project execution and a harmonious work environment. His strong communication skills and proactive attitude were instrumental in meeting tight deadlines without compromising on quality.`,
     name: "Parvesh Kumar",
-    title: "Techinal Lead at BluePi",
+    title: "Techinal Lead at Nevada",
   },
   {
     quote: "I highly recommend Harshit for his exceptional problem-solving skills and positive attitude. Despite joining our project slightly later, he quickly grasped all the workflows and has become a key resource. Harshit is a true go-getter, consistently implementing complex features in our React app with ease. Working with him is always a pleasure.",
     name: "Prakhar Agarwal",
-    title: "Associate Technical Lead at BluePi",
+    title: "Associate Technical Lead at Riko Apps",
   },
 ];
