@@ -13,14 +13,14 @@ export default function Footer() {
           <div className="flex flex-col gap-4">
             <div className="flex gap-2 flex-wrap">
               <Image height={16} width={16} alt="small logo" src={"/logo.png"} />
-              <span className=" text-base text-white font-medium">Harshit</span>
-              <Link target="_blank" href={"mailto: ahujaharshit26@gamil.com"}><span className="text-[#ABB2BF] text-base font-normal">ahujaharshit26@gmail.com</span></Link>
+              <span className=" text-base text-white font-medium">vivid</span>
+              <Link target="_blank" href={"mailto: abhikr62hotmail@gmail.com"}><span className="text-[#ABB2BF] text-base font-normal">ahujaharshit26@gmail.com</span></Link>
             </div>
             <div className="text-white font-normal text-base">
               Full Stack Web App Developer
             </div>
             <div className="text-white font-normal text-xs">
-              <Link target="_blank" href={"https://www.figma.com/community/file/1164933568884615740/Portfolio"}>Design Credit ~ Elias from Figma community</Link>
+              <Link target="_blank" href={"https://www.figma.com/community/file/1164933568884615740/Portfolio"}>Design Credit ~ Elias/Abhikr from Figma community</Link>
             </div>
           </div>
           <div className="flex flex-col gap-5">
@@ -47,7 +47,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="my-7">
-          <p className="text-center text-[#ABB2BF] text-base font-normal">&#169; Copyright 2023. Made by Harshit</p>
+          <p className="text-center text-[#ABB2BF] text-base font-normal">&#169; Copyright 2024. Made by vivid</p>
         </div>
       </div>
     </footer>
