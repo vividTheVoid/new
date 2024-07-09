@@ -26,20 +26,10 @@ export default function AboutMe(props) {
               <div className="text-[#ABB2BF] font-normal text-base flex flex-col gap-7">
                 <p>Hello, i’m vivid!</p>
                 <p>
-                  I am a dedicated and dynamic full-stack web app developer with
-                  an insatiable passion for embracing new technologies and
-                  conquering challenging coding horizons. With a keen eye for
-                  detail and a knack for crafting seamless user experiences, I
-                  thrive on the continuous journey of learning and growth in the
-                  ever-evolving landscape of web development.
+                 I’m a self-taught front-end developer based in Jharkhand, INDIA. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences.
                 </p>
                 <p>
-                  My expertise spans both front-end and back-end development,
-                  allowing me to architect and create robust, user-friendly
-                  applications from start to finish. My proficiency in languages
-                  such as HTML, CSS, JavaScript, and a range of JavaScript
-                  frameworks such as ReactJs, NextJs, Node, Express empowers me to bring ideas to life while ensuring
-                  functionality, security, and scalability.
+                Transforming my creativity and knowledge into a websites has been my passion for over a year. I have been helping various clients to establish their presence online. I always strive to learn about the newest technologies and frameworks.
                 </p>
                 {(!aboutPage) && <div>
                   <button className="text-white py-2 px-4 border border-[#C778DD] hover:text-[#ABB2BF]">
