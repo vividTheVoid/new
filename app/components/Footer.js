@@ -20,7 +20,7 @@ export default function Footer() {
               Full Stack Web App Developer
             </div>
             <div className="text-white font-normal text-xs">
-              <Link target="_blank" href={"https://www.figma.com/community/file/1164933568884615740/Portfolio"}>Design Credit ~ Elias/Abhikr from Figma community</Link>
+              <Link target="_blank" href={"https://www.figma.com/community/file/1164933568884615740/Portfolio"}>Design Credit ~ Kriti</Link>
             </div>
           </div>
           <div className="flex flex-col gap-5">
