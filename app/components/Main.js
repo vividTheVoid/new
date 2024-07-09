@@ -17,7 +17,7 @@ export default function Main() {
             </div>
             <div>
               <p className='text-[#ABB2BF] font-normal text-sm'>
-                From Frontend Flourishes to Backend Brilliance: Powering Digital Dreams with Full Stack Wizardry</p>
+                He crafts responsive websites where technologies meet creativity</p>
             </div>
             <div>
               <Link href={"/contact"}>
