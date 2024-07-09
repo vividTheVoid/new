@@ -24,7 +24,7 @@ export default function AboutMe(props) {
           >
             <Grid item xs={12} md={6} lg={6}>
               <div className="text-[#ABB2BF] font-normal text-base flex flex-col gap-7">
-                <p>Hello, i’m Harshit!</p>
+                <p>Hello, i’m vivid!</p>
                 <p>
                   I am a dedicated and dynamic full-stack web app developer with
                   an insatiable passion for embracing new technologies and
