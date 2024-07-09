@@ -17,10 +17,10 @@ export default function Footer() {
               <Link target="_blank" href={"mailto: abhikr62hotmail@gmail.com"}><span className="text-[#ABB2BF] text-base font-normal">abhikr62hotmail@gamil.com</span></Link>
             </div>
             <div className="text-white font-normal text-base">
-              Full Stack Web App Developer
+              Software Developer & Cybersecurity Expert
             </div>
             <div className="text-white font-normal text-xs">
-              <Link target="_blank" href={"https://www.figma.com/community/file/1164933568884615740/Portfolio"}>Design Credit ~ Kriti</Link>
+              <Link target="_blank" href={"https://www.figma.com/community/file/1164933568884615740/Portfolio"}>Design Credit ~ Krito</Link>
             </div>
           </div>
           <div className="flex flex-col gap-5">
@@ -47,7 +47,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="my-7">
-          <p className="text-center text-[#ABB2BF] text-base font-normal"> Copyright 2024 / Made by vivid/Nevada/Krito/Invincible</p>
+          <p className="text-center text-[#ABB2BF] text-base font-normal"> Copyright 2024 / Made by vivid/Nevada</p>
         </div>
       </div>
     </footer>
