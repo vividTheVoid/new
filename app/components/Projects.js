@@ -1,9 +1,9 @@
 import Link from "next/link";
 import ProjectsCards from "./ProjectsCards";
-const data = [{ name: "IPL DASHBOARD", techStack: "REACT CHART'JS CSS", liveUrl: "https://ipl-dashboard-com.netlify.app/", github: "https://github.com/ahuja2666/ipl-dashboard", thumbnail: "https://res.cloudinary.com/dfegprdja/image/upload/v1692451890/Screenshot_2023-08-19_at_7.00.40_PM_meli80.png", title: "Visualize Insights Seamlessly" },
-{ name: "KANBAN BOARD", techStack: "REACT REACT-BEAUTIFUL-DND TAILWIND MUI", liveUrl: "https://kanbanclone-mercor.vercel.app/", github: "https://github.com/ahuja2666/kanban-clone", thumbnail: "https://res.cloudinary.com/dfegprdja/image/upload/v1692454199/Screenshot_2023-08-19_at_7.39.43_PM_wwd38d.png", title: "MODERN TODO APP" },
-{ name: "LAUNDRY SERVICE", techStack: "REACT NODE EXPRESS MONGODB JWT BCRYPT", github: "https://github.com/ahuja2666/laundry-service-project", thumbnail: "https://res.cloudinary.com/dfegprdja/image/upload/v1692455222/Screenshot_2023-08-19_at_7.56.40_PM_hqibca.png", title: "FULLSTACK WEB APP" }
-]
+//const data = [{ name: "IPL DASHBOARD", techStack: "REACT CHART'JS CSS", liveUrl: "https://ipl-dashboard-com.netlify.app/", github: "https://github.com/ahuja2666/ipl-dashboard", thumbnail: "https://res.cloudinary.com/dfegprdja/image/upload/v1692451890/Screenshot_2023-08-19_at_7.00.40_PM_meli80.png", title: "Visualize Insights Seamlessly" },
+//{ name: "KANBAN BOARD", techStack: "REACT REACT-BEAUTIFUL-DND TAILWIND MUI", liveUrl: "https://kanbanclone-mercor.vercel.app/", github: "https://github.com/ahuja2666/kanban-clone", thumbnail: "https://res.cloudinary.com/dfegprdja/image/upload/v1692454199/Screenshot_2023-08-19_at_7.39.43_PM_wwd38d.png", title: "MODERN TODO APP" },
+//{ name: "LAUNDRY SERVICE", techStack: "REACT NODE EXPRESS MONGODB JWT BCRYPT", github: "https://github.com/ahuja2666/laundry-service-project", thumbnail: "https://res.cloudinary.com/dfegprdja/image/upload/v1692455222/Screenshot_2023-08-19_at_7.56.40_PM_hqibca.png", title: "FULLSTACK WEB APP" }
+//]
 
 export default function Projects(props) {
   const { workPage } = props
